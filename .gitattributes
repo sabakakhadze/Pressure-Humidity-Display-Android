@@ -1,0 +1,5 @@
+# Android init and shell scripts must keep LF line endings.
+*.rc text eol=lf
+gradlew text eol=lf
+*.bat text eol=crlf
+*.jar binary

@@ -1,0 +1,10 @@
+<resources>
+    <color name="screen_bg">#F3F4F2</color>
+    <color name="ink">#1A1C19</color>
+    <color name="label">#6B6E69</color>
+    <color name="strip_ok">#4AA547</color>
+    <color name="strip_alarm">#C0392B</color>
+    <color name="offline_bg">#5A5F5B</color>
+    <color name="divider">#DDE0DB</color>
+    <color name="white">#FFFFFF</color>
+</resources>

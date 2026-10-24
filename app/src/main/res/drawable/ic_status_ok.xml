@@ -1,0 +1,21 @@
+<!-- Shield badge with a checkmark, line style, white on the status strip. -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="120dp"
+    android:height="120dp"
+    android:viewportWidth="48"
+    android:viewportHeight="48">
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="2.6"
+        android:strokeLineJoin="round"
+        android:strokeLineCap="round"
+        android:pathData="M10,5 L38,5 Q40,5 40,7 L40,26 C40,36 32,42 24,46 C16,42 8,36 8,26 L8,7 Q8,5 10,5 Z" />
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="3.6"
+        android:strokeLineJoin="round"
+        android:strokeLineCap="round"
+        android:pathData="M16,25 L21.5,31 L32.5,19" />
+</vector>
